@@ -3,18 +3,18 @@
     "title": "E-commerce Platform",
     "description": "A full-stack e-commerce application using React.js and Spring Boot.",
     "details": "Features user authentication, product management, shopping cart functionality, and uses MySQL for database management.",
-  "githubLink":"https://github.com/AnanthaRevathi/Ecommerce-Frontend."
+  "githubLink":"https://github.com/AnanthaRevathi/Ecommerce-Frontend"
   },
   {
     "title": "School Website",
     "description": "A React-based website for a school.",
     "details": "A responsive website designed for a school, built using React.js, featuring a student portal, gallery section, and Google Maps integration.",
-   "githubLink":"https://github.com/AnanthaRevathi/school-website."
+   "githubLink":"https://github.com/AnanthaRevathi/school-website"
   },
   {
     "title": "Expense Tracker",
     "description": "A personal finance tracker built with React.",
     "details": "A personal finance application allowing users to monitor income and expenses with an intuitive dashboard.",
-     "githubLink":"https://github.com/AnanthaRevathi/Expense-Tracker."
+     "githubLink":"https://github.com/AnanthaRevathi/Expense-Tracker"
   }
 ]
